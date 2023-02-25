@@ -2,7 +2,7 @@
 
 The week 0 starts with billing and budgetary allocation. Also we went through the conceptual architectural desigh using Lucid chart.
 
-Below are the links to to both my napkin and conceptual diagram of Cruddur
+Below are the links to to both my napkin and conceptual architectural diagram of Cruddur
 
 https://lucid.app/lucidchart/f54a12a5-b39a-4fb8-b3f2-526f191ec1d2/edit?viewport_loc=-343%2C-4%2C2467%2C1216%2C0_0&invitationId=inv_8ade7418-9e98-4308-9812-ef7511763910
 
